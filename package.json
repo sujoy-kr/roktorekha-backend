@@ -1,0 +1,15 @@
+{
+  "name": "roktorekha",
+  "version": "1.0.0",
+  "description": "RoktoRekha is a non profit orgranization in Bangladesh. We try to connect individual blood donors with the people who need them.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blood",
+    "donation"
+  ],
+  "author": "Sujoy Karmakar",
+  "license": "ISC"
+}
