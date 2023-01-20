@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "RoktoRekha is a non profit orgranization in Bangladesh. We try to connect individual blood donors with the people who need them.",
   "main": "server.js",
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "dev": "nodemon server.js"
   },
